@@ -1,0 +1,8 @@
+[package]
+name = "xenopalm-dsp"
+description = "DSP engine for Xenopalm XP-1: XK-1 percussion engines played by a simulated hand drummer"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]

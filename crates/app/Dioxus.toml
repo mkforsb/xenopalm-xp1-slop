@@ -1,0 +1,8 @@
+[application]
+name = "xenopalm"
+
+[web.app]
+title = "Xenopalm XP-1 · Alien Hand Drum Performance Synthesizer"
+
+[web.watcher]
+watch_path = ["src", "assets", "../dsp/src", "../worklet/src"]
